@@ -1,8 +1,5 @@
 # Eliud's Eggs
 
-Welcome to Eliud's Eggs on Exercism's Dart Track.
-If you need help running the tests or submitting your code, check out `HELP.md`.
-
 ## Introduction
 
 Your friend Eliud inherited a farm from her grandma Tigist.
@@ -59,13 +56,3 @@ Your task is to count the number of 1 bits in the binary representation of a num
 
 Keep your hands off that bit-count functionality provided by your standard library!
 Solve this one yourself using other basic tools instead.
-
-## Source
-
-### Created by
-
-- @glennj
-
-### Based on
-
-Christian Willner, Eric Willigers - https://forum.exercism.org/t/new-exercise-suggestion-pop-count/7632/5
