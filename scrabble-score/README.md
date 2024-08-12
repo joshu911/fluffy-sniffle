@@ -1,8 +1,5 @@
 # Scrabble Score
 
-Welcome to Scrabble Score on Exercism's Dart Track.
-If you need help running the tests or submitting your code, check out `HELP.md`.
-
 ## Introduction
 
 [Scrabble][wikipedia] is a word game where players place letter tiles on a board to form words.
@@ -36,18 +33,3 @@ For example, the word "cabbage" is worth 14 points:
 - 1 point for A
 - 2 points for G
 - 1 point for E
-
-## Source
-
-### Created by
-
-- @jvarness
-
-### Contributed to by
-
-- @Stargator
-- @kytrinyx
-
-### Based on
-
-Inspired by the Extreme Startup game - https://github.com/rchatley/extreme_startup
